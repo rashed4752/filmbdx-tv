@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://filmbdx-tv.onrender.com/sitemap.xml
